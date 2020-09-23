@@ -1,0 +1,13 @@
+D:\baitap\zoomanagementsystem\bin\Debug\netcoreapp3.1\zoomanagementsystem.exe
+D:\baitap\zoomanagementsystem\bin\Debug\netcoreapp3.1\zoomanagementsystem.deps.json
+D:\baitap\zoomanagementsystem\bin\Debug\netcoreapp3.1\zoomanagementsystem.runtimeconfig.json
+D:\baitap\zoomanagementsystem\bin\Debug\netcoreapp3.1\zoomanagementsystem.runtimeconfig.dev.json
+D:\baitap\zoomanagementsystem\bin\Debug\netcoreapp3.1\zoomanagementsystem.dll
+D:\baitap\zoomanagementsystem\bin\Debug\netcoreapp3.1\zoomanagementsystem.pdb
+D:\baitap\zoomanagementsystem\obj\Debug\netcoreapp3.1\zoomanagementsystem.csprojAssemblyReference.cache
+D:\baitap\zoomanagementsystem\obj\Debug\netcoreapp3.1\zoomanagementsystem.AssemblyInfoInputs.cache
+D:\baitap\zoomanagementsystem\obj\Debug\netcoreapp3.1\zoomanagementsystem.AssemblyInfo.cs
+D:\baitap\zoomanagementsystem\obj\Debug\netcoreapp3.1\zoomanagementsystem.csproj.CoreCompileInputs.cache
+D:\baitap\zoomanagementsystem\obj\Debug\netcoreapp3.1\zoomanagementsystem.dll
+D:\baitap\zoomanagementsystem\obj\Debug\netcoreapp3.1\zoomanagementsystem.pdb
+D:\baitap\zoomanagementsystem\obj\Debug\netcoreapp3.1\zoomanagementsystem.genruntimeconfig.cache
